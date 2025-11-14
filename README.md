@@ -104,5 +104,5 @@
 </h2>
 
 <div align="center">
-  <img src="https://github.com/johnllss/github-profile-3d-contrib/blob/master/profile-night-rainbow.svg" width="700" />
+  <img src="https://raw.githubusercontent.com/johnllss/johnllss/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 </div>
