@@ -16,11 +16,11 @@
     🧑‍💻 About Me
   </span>
 </h2>
+I am an eager Computer Science who loves all things tech. As a learner, I aim to uncover everything there is to learn about Computer Science.
 
-- 🎓 Computer Science Student  
-- 🚀 Passionate about Full-Stack Development  
-- ⚙️ Loves building real-world apps & learning new technologies  
-- 🔭 Currently exploring **Java, Python, Flask, React, Databases**  
+- 🎓 A Bachelor of Science in Computer Science Major in Software Technology (BSCS-ST) student at De La Salle University - Manila 
+- 🚀 I'm currently learning Full-Stack Development through [Scrimba's The Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack)  
+- ⚙️ My personal website is still under construction. Stay tuned!
 - 💡 Always learning, always building  
 
 <br/>
