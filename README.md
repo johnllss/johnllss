@@ -1,16 +1,108 @@
-## Hi there 👋
+<!-- Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Hi+I'm+JL!;Welcome+to+my+GitHub!+🚀;Computer+Science+Student;Aspiring+Full-Stack+Developer;Aspiring+Software+Engineer" />
+</h1>
 
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=johnllss&label=Visitors&color=60a5fa&style=for-the-badge" />
+</div>
+
+<br/>
+
+<!-- About Me -->
+<h2 align="left">
+  <span style="background: linear-gradient(90deg, #a78bfa, #60a5fa); -webkit-background-clip: text; color: transparent;">
+    🧑‍💻 About Me
+  </span>
+</h2>
+
+- 🎓 Computer Science Student  
+- 🚀 Passionate about Full-Stack Development  
+- ⚙️ Loves building real-world apps & learning new technologies  
+- 🔭 Currently exploring **Java, Python, Flask, React, Databases**  
+- 💡 Always learning, always building  
+
+<br/>
+
+<!-- Skills Section -->
+<h2>
+  <span style="background: linear-gradient(90deg, #70a5fa, #4dd0e1); -webkit-background-clip: text; color: transparent;">
+    ⚡ Tech Stack & Skills
+  </span>
+</h2>
+
+<!-- Animated Skill Icons -->
+<div align="center">
+
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,c,java&perline=7" />
+
+<!-- Web/Frameworks -->
 <!--
-**johnllss/johnllss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,spring&perline=7" />
 -->
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&perline=7" />
+
+</div>
+
+<br/>
+
+<!-- Projects -->
+<!--
+<h2>
+  <span style="background: linear-gradient(90deg, #ec4899, #8b5cf6); -webkit-background-clip: text; color: transparent;">
+    🚀 Featured Projects
+  </span>
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/johnllss/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=YOUR_REPO&theme=radical" />
+</a>
+
+<a href="https://github.com/johnllss/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=ANOTHER_REPO&theme=radical" />
+</a>
+
+</div>
+-->
+
+<br/>
+
+<!-- GitHub Stats -->
+<h2>
+  <span style="background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899); -webkit-background-clip: text; color: transparent;">
+    📊 GitHub Stats
+  </span>
+</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=johnllss&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnllss&layout=compact&theme=tokyonight" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=johnllss&theme=tokyonight" />
+
+</div>
+
+<br/>
+
+<!-- 3D Contribution Chart -->
+<h2>
+  <span style="background: linear-gradient(90deg, #00e5ff, #ff3dff, #ffea00); -webkit-background-clip: text; color: transparent;">
+    🧊 3D Contribution Graph
+  </span>
+</h2>
+
+<div align="center">
+  <img src="https://github.com/johnllss/github-profile-3d-contrib/blob/master/profile-night-rainbow.svg" width="700" />
+</div>
