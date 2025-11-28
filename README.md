@@ -39,9 +39,7 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java&perline=7" />
 
 <!-- Web/Frameworks -->
-<!--
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,spring&perline=7" />
--->
+<img src="https://skillicons.dev/icons?i=flask&perline=7" />
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&perline=7" />
