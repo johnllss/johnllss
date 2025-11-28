@@ -59,11 +59,11 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 
 <div align="center">
 
-<a href="https://github.com/johnllss/">
+<a href="https://github.com/johnllss/INFOM_DB-App_Gr3">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=INFOM_DB-App_Gr3&theme=radical" />
 </a>
 
-<a href="https://github.com/johnllss/">
+<a href="https://github.com/johnllss/CCPROG3-MCO1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=CCPROG3-MCO1&theme=radical" />
 </a>
 
