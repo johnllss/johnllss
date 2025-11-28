@@ -51,7 +51,6 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <br/>
 
 <!-- Projects -->
-<!--
 <h2>
   <span style="background: linear-gradient(90deg, #ec4899, #8b5cf6); -webkit-background-clip: text; color: transparent;">
     🚀 Featured Projects
@@ -61,15 +60,14 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <div align="center">
 
 <a href="https://github.com/johnllss/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=YOUR_REPO&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=INFOM_DB-App_Gr3&theme=radical" />
 </a>
 
 <a href="https://github.com/johnllss/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=ANOTHER_REPO&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=CCPROG3-MCO1&theme=radical" />
 </a>
 
 </div>
--->
 
 <br/>
 
