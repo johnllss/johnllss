@@ -61,11 +61,11 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <div align="center">
 
 <a href="https://github.com/johnllss/INFOM_DB-App_Gr3/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=INFOM_DB-App_Gr3&theme=radical" />
+  <h3><strong>INFOM_DB-App_Gr3</strong></h3>
 </a>
 
-<a href="https://github.com/johnllss/CCPROG3-MCO1/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=CCAPDEV-MCO&theme=radical" />
+<a href="https://github.com/johnllss/CCAPDEV-MCO/">
+  <h3><strong>CCAPDEV-MCO</strong></h3>
 </a>
 
 </div>
@@ -81,15 +81,15 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=johnllss&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnllss&layout=compact&theme=tokyonight" />
-
-<br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=johnllss&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=johnllss&show_icons=true&theme=tokyonight" />
+  
+  <br/>
+  
+  <img height="170" src="ht4tps://github-readme-stats.vercel.app/api/top-langs/?username=johnllss&layout=compact&theme=tokyonight" />
+  
+  <br/>
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=johnllss&theme=tokyonight" />
 
 </div>
 
