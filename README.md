@@ -61,11 +61,11 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <div align="center">
 
 <a href="https://github.com/johnllss/INFOM_DB-App_Gr3/">
-  <h3><strong>INFOM_DB-App_Gr3</strong></h3>
+  <p><strong>INFOM_DB-App_Gr3</strong></p>
 </a>
 
 <a href="https://github.com/johnllss/CCAPDEV-MCO/">
-  <h3><strong>CCAPDEV-MCO</strong></h3>
+  <p><strong>CCAPDEV-MCO</strong></p>
 </a>
 
 </div>
