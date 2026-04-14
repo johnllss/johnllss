@@ -36,13 +36,16 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <div align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=html,css,javascript,c,java&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,py&perline=7" />
 
 <!-- Web/Frameworks -->
-<img src="https://skillicons.dev/icons?i=flask&perline=7" />
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,express&perline=7" />
+
+<!-- Runtime Environments -->
+<img src="https://skillicons.dev/icons?i=nodejs&perline=7" />
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea&perline=7" />
+<img src="https://skillicons.dev/icons?i=npm,mongodb,mysql,git,github,vscode,idea,github,figma,netlify&perline=7" />
 
 </div>
 
@@ -62,7 +65,7 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 </a>
 
 <a href="https://github.com/johnllss/CCPROG3-MCO1/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=CCPROG3-MCO1&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=johnllss&repo=CCAPDEV-MCO&theme=radical" />
 </a>
 
 </div>
