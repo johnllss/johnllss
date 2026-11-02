@@ -73,7 +73,7 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
 <br/>
 
 <!-- GitHub Stats -->
-<h2>
+<!-- <h2>
   <span style="background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899); -webkit-background-clip: text; color: transparent;">
     📊 GitHub Stats
   </span>
@@ -91,7 +91,7 @@ I am an eager Computer Science who loves all things tech. As a learner, I aim to
   
   <img height="170" src="https://streak-stats.demolab.com?user=johnllss&theme=tokyonight" />
 
-</div>
+</div> -->
 
 <br/>
 
